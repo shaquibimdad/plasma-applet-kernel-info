@@ -1,0 +1,19 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Kernel Info
+Comment=Display kernel version
+X-KDE-PluginInfo-Author=Shaquib Imdad
+X-KDE-PluginInfo-Email=shaquibxyz@gmail.com
+
+Type=Service
+Icon=kernel
+X-KDE-ServiceTypes=Plasma/Applet
+
+X-Plasma-API=declarativeappletscript
+X-Plasma-MainScript=ui/main.qml
+
+X-KDE-PluginInfo-Name=org.kde.kernelInfo
+X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-Website=https://github.com/shaquibimdad/plasma-applet-kernel-info
+X-KDE-PluginInfo-Category=System Information
+X-KDE-PluginInfo-License=GPL-3.0-or-later
